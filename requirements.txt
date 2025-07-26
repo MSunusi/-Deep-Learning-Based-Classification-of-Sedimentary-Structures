@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+matplotlib
+pandas
+opencv-python
+pyyaml
+tqdm
+scikit-learn
+seaborn
+jupyter
+roboflow
+ultralytics==8.0.20
