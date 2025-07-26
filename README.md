@@ -1,6 +1,6 @@
 # Deep Learning-Based Classification of Sedimentary Structures in Drill Core Images using YOLOv11
 
-![Sedimentary Core Sample](images/output_bounding_box)
+![Sedimentary Core Sample](output_bounding_box)
 
 ---
 
