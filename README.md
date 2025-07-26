@@ -1,6 +1,6 @@
 # Deep Learning-Based Classification of Sedimentary Structures in Drill Core Images using YOLOv11
 
-![Sedimentary Core Sample](https://github.com/your-username/your-repo-name/raw/main/assets/cover-image.jpg)
+![Sedimentary Core Sample](https://github.com/MSunusi/[your-repo-name](https://github.com/MSunusi/-Deep-Learning-Based-Classification-of-Sedimentary-Structures/raw/main/assets/cover-image.jpg)
 
 ---
 
@@ -24,7 +24,7 @@ Each class was identified based on distinct sedimentary textures and features, d
 
 The annotated dataset of 222 core images is available on [Roboflow](https://app.roboflow.com).
 
-→ Access Dataset: [Roboflow Project Link](https://app.roboflow.com)
+→ Access Dataset: [Roboflow Project Link](https://app.roboflow.comhttps://universe.roboflow.com/roboflow-100/sedimentary-features-9eosf/images/SflnJqTGKFGvaQ9eSkdK)
 
 Classes:
 - Cross-bedded Sandstones
