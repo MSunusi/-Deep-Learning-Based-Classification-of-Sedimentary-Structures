@@ -91,12 +91,11 @@ cd -Deep-Learning-Based-Classification-of-Sedimentary-Structures
 ```
 
 ### open for collaburation
-```
+
 we are open for collaburation to improve the model evn Batter should you have interest reach out through the mail below 
 
 - **Mail: sunusimuhammada@gmail.com**
 - **linkedin: https://www.linkedin.com/in/sunusi-ibrahim-muhammad-19a654236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjx10aYerR3eR4hT7ZuCEOw%3D%3D**
 
-```
 
 
