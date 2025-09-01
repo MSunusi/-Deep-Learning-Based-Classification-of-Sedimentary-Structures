@@ -72,16 +72,22 @@ Follow the steps below to set up the environment and run the notebook.
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
+```
+
+
 ### 2. Clone the Repository
 
 ```bash
 git clone https://github.com/MSunusi/-Deep-Learning-Based-Classification-of-Sedimentary-Structures.git
 cd -Deep-Learning-Based-Classification-of-Sedimentary-Structures
 
+```
 
 ### 3. Install dependencies
 
 ```bash
  pip install -r requirements.txt
+
+
 
 
