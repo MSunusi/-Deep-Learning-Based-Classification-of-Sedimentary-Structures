@@ -18,7 +18,7 @@
 
 This project presents a deep learning pipeline that identifies and classifies sedimentary structures in geological core images using the YOLOv11 object detection model. The model helps geologists and researchers automatically recognize key sedimentary features critical for understanding depositional environments and supporting hydrocarbon exploration.
 
-We annotated and trained on 222 geological core images with 5 classes:
+the annotated 222 geological core images with 5 classes were trained  the classification are:
 
 - Cross-bedded Sandstones
 - Low-angle Cross-bedded Sandstones
@@ -88,6 +88,14 @@ cd -Deep-Learning-Based-Classification-of-Sedimentary-Structures
 ```bash
  pip install -r requirements.txt
 
+```
+
+### open for collaburation
+
+we are open for collaburation to improve the model evn Batter should you have interest reach out through the mail below 
+
+**Mail: sunusimuhammada@gmail.com**
+**linkedin: https://www.linkedin.com/in/sunusi-ibrahim-muhammad-19a654236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjx10aYerR3eR4hT7ZuCEOw%3D%3D**
 
 
 
