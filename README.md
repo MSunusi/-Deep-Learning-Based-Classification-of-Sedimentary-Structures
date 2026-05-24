@@ -95,7 +95,7 @@ cd -Deep-Learning-Based-Classification-of-Sedimentary-Structures
 we are open for collaboration to improve the model, should you have interest reach out through the following details 
 
 - **Mail: sunusimuhammada@gmail.com**
-- **linkedin: https://www.linkedin.com/in/sunusi-ibrahim-muhammad-19a654236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjx10aYerR3eR4hT7ZuCEOw%3D%3D**
+- **linkedin: https://www.linkedin.com/in/sunusi-ibrahim-muhammad-19a654236
 
 
 
